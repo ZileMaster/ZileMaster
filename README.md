@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="300" src="https://gifdb.com/images/thumbnail/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 # 💫 About Me:
-🔭 I’m currently working on the Rails backend and Vue frontend<br>🌱 I’m currently learning Vue, Rails, Node.js<br>💬 Ask me about Vue, Rails, Node, SQL, Java, Backend-Frontend<br>📫 How to reach me aleksaa.zivkovic01@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/ZileMaster<br>⚡ Fun fact Im really tired
+🔭 I’m currently working on the Rails backend and Vue frontend<br>🌱 I’m currently learning Vue, Rails, Node.js<br>💬 Ask me about Vue, Rails, Node, SQL, Java, Backend-Frontend<br>📫 How to reach me aleksaa.zivkovic01@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/ZileMaster<br>⚡ Fun fact Im really tired<br>Be sure to check out my site at https://www.azivkovic1389.site !
 
 
 ## 🌐 Socials:
